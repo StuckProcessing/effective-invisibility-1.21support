@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "net.wondiws98.effectiveinvisibility.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "EffectiveInvisibilityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
